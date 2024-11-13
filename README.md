@@ -7,11 +7,11 @@ This project provides an in-depth analysis of IPL cricket matches, using data an
   - Visualizes match outcomes by venue, team performances, and trends across IPL seasons.
   - Analyzes factors like winning margins, toss decisions, and their impact on match outcomes.
 - Insightful Visualizations:
-  Graphs showing the most successful teams and players, top venues, and win probabilities.
-  Season-by-season breakdowns highlighting trends over time.
+  - Graphs showing the most successful teams and players, top venues, and win probabilities.
+  - Season-by-season breakdowns highlighting trends over time.
 - Libraries Used
-  Pandas for data handling and cleaning
-  Matplotlib and Seaborn for visualizations
-  NumPy for numerical operations
+  - Pandas for data handling and cleaning
+  - Matplotlib and Seaborn for visualizations
+  - NumPy for numerical operations
 ### This notebook serves as a useful resource for IPL enthusiasts, data scientists, and anyone interested in sports analytics.
 
