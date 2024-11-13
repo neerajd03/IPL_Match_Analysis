@@ -13,5 +13,5 @@ This project provides an in-depth analysis of IPL cricket matches, using data an
   Pandas for data handling and cleaning
   Matplotlib and Seaborn for visualizations
   NumPy for numerical operations
-###This notebook serves as a useful resource for IPL enthusiasts, data scientists, and anyone interested in sports analytics.
+### This notebook serves as a useful resource for IPL enthusiasts, data scientists, and anyone interested in sports analytics.
 
